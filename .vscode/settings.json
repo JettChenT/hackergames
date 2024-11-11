@@ -1,0 +1,6 @@
+{
+    "python.analysis.inlayHints.callArgumentNames": "off",
+    "python.analysis.inlayHints.parameterNames": "off",
+    "python.analysis.inlayHints.variableNames": "off",
+    "python.analysis.inlayHints": "off"
+}
